@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently pursuing BTech final year in Vikas Group Of Institutions <br>- 🌱 I’m currently learning ... Data Analytics. <br>- 💻 I’m passionate about *Python* and *SQL*, and I enjoy solving real-world problems through technology Excellent problem-solving and analytical thinking and Passionate about learning new technologies and building innovative solutions ...<br>- - 📫 How to reach me: ... udayanalytics@gmail.com
+- 🔭 I’m currently pursuing BTech final year in Vikas Group Of Institutions <br>- 🌱 I’m currently learning ... Data Analytics. <br>- 💻 I’m passionate about *Python* and *SQL*, and I enjoy solving real-world problems through technology Excellent problem-solving and analytical thinking and Passionate about learning new technologies and building innovative solutions ...<br>- - 📫 How to reach me: ... udayanalytics9@gmail.com
 
 
 
